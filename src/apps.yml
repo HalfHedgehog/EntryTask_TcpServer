@@ -1,0 +1,16 @@
+Server:
+  Port: 8888
+Redis:
+  Address: '127.0.0.1:6379'
+  Password: ''
+  DB: 0
+Mysql:
+  User: root
+  Password: Ww19981003
+  Address: 127.0.0.1
+  Port: 3306
+  DB: entry_task_cn_db
+JWT:
+  Key: key
+  ExpiresTime: 1800
+  Issuer: 'WuQiYou'
